@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently focusing on
     - **Software Engineering**(Java, Python, C, Go)
-    - **Web Development**(React, MongoDB, ExpressJS, NodeJS)
-    - **Artificial Intelligence**(Numpy, Tensorflow, Pytorch, etc.)
+    - **Frontend Development**(React, Material UI)
+    - **Backend Development Development**(ExpressJS, NodeJS)
+    - **Cloud Services & Database Management**(AWS, PostgreSQL, MongoDB)
 - 📫 You can reach out to me on:
     - [LinkedIn](https://www.linkedin.com/in/xiongkai-mao-3bb99a1aa/)
 - ⚡ I have developed:
     - **NUSMate** - a social media platform that aims to help NUS Freshmen and Foreign Exchange Students to quickly make friends and establish long term friendship in NUS.
     - **Gopher** - a JavaFX-based desktop application that helps people with simple task management
-- 🔭 I’m currently working on a team project which aims to transform a general-purpose address book application to a contact list application that helps NUS Students to manage their academic-related contacts in more efficient ways.
+    - **ContactCS** - a JavaFX-based desktop application for managing NUS CS related contacts in more efficient ways!
+- 🔭 I’m currently contributing to SQLancer which is an automatic database management system testing software, by creating a benchmarking platform to measure its performance and effectiveness in bug-finding.
 
