@@ -24,5 +24,5 @@ Here are some ideas to get you started:
     - **NUSMate** - a social media platform that aims to help NUS Freshmen and Foreign Exchange Students to quickly make friends and establish long term friendship in NUS.
     - **Gopher** - a JavaFX-based desktop application that helps people with simple task management
     - **ContactCS** - a JavaFX-based desktop application for managing NUS CS related contacts in more efficient ways!
-- 🔭 I’m currently contributing to SQLancer which is an automatic database management system testing software, by creating a benchmarking platform to measure its performance and effectiveness in bug-finding.
+- 🔭 I’m currently contributing to **SQLancer** which is an automatic database management system testing software, by creating a benchmarking platform to measure its performance and effectiveness in bug-finding.
 
