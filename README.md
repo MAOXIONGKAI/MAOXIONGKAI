@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently focusing on
     - **Software Engineering**(Java, Python, C, Go)
     - **Frontend Development**(HTML, CSS, JavaScript, React, Material UI)
-    - **Backend Development Development**(ExpressJS, NodeJS, Gin)
+    - **Backend Development**(ExpressJS, NodeJS, Gin)
     - **Cloud Services & Database Management**(AWS, PostgreSQL, MongoDB)
 - 📫 You can reach out to me on:
     - [LinkedIn](https://www.linkedin.com/in/xiongkai-mao-3bb99a1aa/)
