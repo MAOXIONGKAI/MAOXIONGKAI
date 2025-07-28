@@ -28,5 +28,5 @@ Here are some ideas to get you started:
     - **ContactCS** - a JavaFX-based desktop application for managing NUS CS related contacts in more efficient ways
     - **Sqlancer** - an automatic database management system testing software, by creating a benchmarking platform to measure its performance and effectiveness in bug-finding
 
-- 🔭 I’m currently working on **Web Scraper Engine**, which is a modular system that allows users with no programming background to achieve scalable and testable web scraping tasks for daily task automations, constant information lookup and so on.
+- 🔭 I’m currently working on **Web Scraper Engine**, which is a modular automation tool that allows users with no programming background to easily create highly scalable and testable web scraping tasks for daily task automations, regular information lookup and so on.
 
