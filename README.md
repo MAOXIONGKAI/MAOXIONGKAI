@@ -18,12 +18,15 @@ Here are some ideas to get you started:
     - **Frontend Development**(React, Next.js, Material UI, TailwindCSS, Shadcn)
     - **Backend Development**(Express.js, Node.js, Gin, RabbitMQ)
     - **Cloud Services & Database Management**(AWS(EC2, RDS, S3), PostgreSQL, MongoDB, Firebase, Supabase)
+
 - 📫 You can reach out to me on:
     - [LinkedIn](https://www.linkedin.com/in/maoxiongkai/)
+
 - ⚡ I have developed/contributed to:
     - **NUSMate** - a social media platform that aims to help NUS Freshmen and Foreign Exchange Students to quickly make friends and establish long term friendship in NUS
     - **Gopher** - a JavaFX-based desktop application that helps people with simple task management
     - **ContactCS** - a JavaFX-based desktop application for managing NUS CS related contacts in more efficient ways
     - **Sqlancer** - an automatic database management system testing software, by creating a benchmarking platform to measure its performance and effectiveness in bug-finding
+
 - 🔭 I’m currently working on **Web Scraper Engine**, which is a modular system that allows users with no programming background to achieve scalable and testable web scraping tasks for daily task automations, constant information lookup and so on.
 
