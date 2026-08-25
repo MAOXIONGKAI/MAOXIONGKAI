@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently focusing on
-    - **Software Engineering**(Java, Go, Python, HTML, CSS, JS/TS)
+    - **Software Engineering**(Java, Go, Python, C/C++, HTML, CSS, JS/TS)
     - **Frontend Development**(React, Next.js, CSS Modules/SCSS/Emotion.css/Tailwind CSS)
     - **Backend Development**(SpringBoot, Node.js, Gin, Redis, Kafka, RabbitMQ)
     - **Cloud Services & Database Management**(Google Cloud, AWS(EC2, RDS, S3, DyanoDB, SQS), PostgreSQL, MySQL, MongoDB)
