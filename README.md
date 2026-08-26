@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - ⚡ I have developed/contributed to:
     - **[BytePlus AI Platform](https://ai.byteplus.com/en/playground/templates)** - an AI showcase platform that allows BytePlus(subcompany under ByteDance) to efficiently configure and display AI prompt templates to showcase ByteDance AI capabilities to external business partners and AI users.
-    - **[ScreenScout]** - The most reliable movie aggregation platform in Singapore capable of providing real-time movie availability information across all major cinema operators such as Golden Village and Shaw Theatre.
-    - **[Grid Universe](https://github.com/MAOXIONGKAI/Grid-Universe)** - A stochastic grid world that simulates a complex maze game with various levels and difficulties, together with an autonomous AI agent that navigates through the maze using basic AI search algorithms
+    - **ScreenScout** - The most reliable movie aggregation platform in Singapore capable of providing real-time movie availability information across all major cinema operators such as Golden Village and Shaw Theatre.
+    - **Grid Universe** - A stochastic grid world that simulates a complex maze game with various levels and difficulties, together with an autonomous AI agent that navigates through the maze using basic AI search algorithms
 
