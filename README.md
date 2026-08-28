@@ -23,6 +23,6 @@ Here are some ideas to get you started:
     - [LinkedIn](https://www.linkedin.com/in/maoxiongkai/)
 
 - ⚡ I have developed/contributed to:
-    - **[BytePlus AI Platform](https://ai.byteplus.com/en/playground/templates)** - an AI showcase platform that allows BytePlus(subcompany under ByteDance) to efficiently configure and display AI prompt templates to showcase ByteDance AI capabilities to external business partners and AI users.
+    - **[BytePlus AI Platform](https://ai.byteplus.com/en/playground/)** - an AI showcase platform that allows BytePlus(subcompany under ByteDance) to efficiently configure and display AI prompt templates to showcase ByteDance AI capabilities to external business partners and AI users.
     - **[ScreenScout](https://www.screenscout.live/)** - The most reliable movie aggregation platform in Singapore capable of providing real-time movie availability information across all major cinema operators such as Golden Village and Shaw Theatre.
 
