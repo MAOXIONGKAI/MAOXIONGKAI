@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently focusing on
     - **Software Engineering**(Java, Go, Python, C/C++, HTML, CSS, JS/TS)
     - **Frontend Development**(React, Next.js, CSS Modules/SCSS/Emotion.css/Tailwind CSS)
-    - **Backend Development**(SpringBoot, Node.js, Gin, Redis, Kafka, RabbitMQ)
+    - **Backend Development**(SpringBoot, Node.js, Gin, Hertz, Kitex, gRPC, Redis, Kafka, RabbitMQ)
     - **Cloud Services & Database Management**(Google Cloud, AWS(EC2, RDS, S3, DyanoDB, SQS), PostgreSQL, MySQL, MongoDB)
 
 - 📫 You can reach out to me on:
@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 - ⚡ I have developed/contributed to:
     - **[BytePlus AI Platform](https://ai.byteplus.com/en/playground/templates)** - an AI showcase platform that allows BytePlus(subcompany under ByteDance) to efficiently configure and display AI prompt templates to showcase ByteDance AI capabilities to external business partners and AI users.
-    - **ScreenScout** - The most reliable movie aggregation platform in Singapore capable of providing real-time movie availability information across all major cinema operators such as Golden Village and Shaw Theatre.
-    - **Grid Universe** - A stochastic grid world that simulates a complex maze game with various levels and difficulties, together with an autonomous AI agent that navigates through the maze using basic AI search algorithms
+    - **[ScreenScout](https://www.screenscout.live/)** - The most reliable movie aggregation platform in Singapore capable of providing real-time movie availability information across all major cinema operators such as Golden Village and Shaw Theatre.
 
